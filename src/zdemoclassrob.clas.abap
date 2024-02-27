@@ -4,6 +4,7 @@ class ZDEMOCLASSROB definition
   create public .
 
 public section.
+* this is a demo comment 
 protected section.
 private section.
 ENDCLASS.
